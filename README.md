@@ -1,5 +1,6 @@
-## My Project Deployment Link
-[RP's Blog](https://rpcblog.netlify.app/)
+## Project Deployment Link
+- click on link below to view the project
+### <a href="https://rpcblog.netlify.app/" target="_blank">RP's Blog<a/>
 
 ## Table of Contents
 
@@ -38,7 +39,7 @@ This project is a full-featured blogging platform built with modern web technolo
 ### Prerequisites
 
 - Node.js and npm installed
-- [Appwrite server set up](https://appwrite.io/docs/installation)
+- <a href="https://appwrite.io/docs/installation" target="_blank">Appwrite server set up</a>
 
 ### Steps
 
@@ -56,7 +57,7 @@ This project is a full-featured blogging platform built with modern web technolo
     ```
 
 3. **Set up Appwrite:**
-    - Follow the [Appwrite installation guide](https://appwrite.io/docs/installation) to set up your Appwrite server.
+    - Follow the <a href="https://appwrite.io/docs/installation" target="_blank">Appwrite installation guide</a> to set up your Appwrite server.
     - Create a new project in Appwrite and configure authentication and database services.
     - Update the Appwrite configuration in `src/appwrite/config.js` with your project details.
 
