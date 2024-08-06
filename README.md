@@ -8,11 +8,10 @@
 2. [Features](#features)
 3. [Technologies Used](#technologies-used)
 4. [Installation](#installation)
-6. [Usage](#usage)
+5. [Usage](#usage)
     - [User Authentication](#user-authentication)
     - [Creating and Managing Posts](#creating-and-managing-posts)
-7. [File Structure](#file-structure)
-8. [Contributing](#contributing)
+6. [Contributing](#contributing)
 
 ## Overview
 
@@ -84,34 +83,6 @@ This project is a full-featured blogging platform built with modern web technolo
 - **View Posts**: Browse through all posts or view individual posts in detail.
 - **Edit Post**: Update existing posts to keep your content current.
 - **Delete Post**: Remove posts that are no longer needed.
-
-## File Structure
-
-```plaintext
-my-blog-project/
-├── public/
-│   ├── index.html
-│   └── ...
-├── src/
-│   ├── appwrite/
-│   │   └── config.js
-│   ├── components/
-│   │   ├── Header.js
-│   │   ├── PostCard.js
-│   │   └── ...
-│   ├── pages/
-│   │   ├── Home.js
-│   │   ├── Profile.js
-│   │   └── ...
-│   ├── store/
-│   │   └── authSlice.js
-│   ├── ThemeContext.js
-│   ├── App.js
-│   └── index.js
-├── .gitignore
-├── package.json
-└── README.md
-```
 
 ## Contributing
 - Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
