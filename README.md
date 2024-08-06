@@ -15,7 +15,7 @@
 
 ## Overview
 
-This project is a full-featured blogging platform built with modern web technologies. Users can create, view, and manage blog posts, while also enjoying features like theme switching, user authentication, and a responsive design.
+This project is a full-featured blogging platform built with modern web technologies. Users can create, view, and manage blog posts, while also enjoying features like user authentication, and a responsive design.
 
 ## Features
 
